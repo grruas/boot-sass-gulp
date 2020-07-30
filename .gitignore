@@ -1,3 +1,9 @@
+package-lock.json
+src/css
+
+
+#############################################################################
+## Defauts sugeridos pelo Github abaixo
 # Logs
 logs
 *.log
